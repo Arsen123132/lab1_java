@@ -1,6 +1,7 @@
 package ua.lab.musicdisc.model;
 
 import java.time.Duration;
+import ua.lab.musicdisc.util.DurationFormatter;
 
 /**
  * Base class for any music composition that can be recorded on a disc.
@@ -74,14 +75,8 @@ public abstract class Composition {
         return style;
     }
 
-    /**
-     * Returns the track length formatted as m:ss.
-     *
-     * @return formatted duration
-     */
-    public String getFormattedDuration() {
-        return String.format("%d:%02d", duration.toMinutes(),
-                duration.toSecondsPart());
+        public String getFormattedDuration() {
+        return DurationFormatter.format(duration);
     }
 
     @Override
