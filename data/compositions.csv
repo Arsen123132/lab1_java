@@ -1,0 +1,36 @@
+# type;title;artist;duration;style;detail;composer
+# detail: lyrics language for SONG, main instrument for INSTRUMENTAL/CLASSICAL
+# composer is used only by CLASSICAL, style is ignored for CLASSICAL
+# titles must not contain ';'
+
+# Neuro-sama
+SONG;Pattern Recognition;Neuro-sama, ODDEEO;4:46;pop;English;
+SONG;NEVER;Neuro-sama, Evil Neuro;3:50;pop;English;
+SONG;LIFE;Neuro-sama;3:33;pop;English;
+SONG;Colorful Array;Neuro-sama;4:33;pop;English;
+SONG;Closer;Neuro-sama;3:15;pop;English;
+SONG;Worldwide Personality;Neuro-sama;4:01;pop;English;
+SONG;Irrationality;Neuro-sama;2:36;pop;English;
+SONG;What Comes Next;Neuro-sama;3:47;pop;English;
+
+# usedcvnt
+SONG;inhuman;usedcvnt, aak3;2:07;drum and bass;English;
+SONG;143 ways to lose urself;usedcvnt;2:27;breakcore;English;
+SONG;limited in love;usedcvnt, AKIBA;2:52;drum and bass;English;
+SONG;you're my friend now;usedcvnt, DXRKWRLD;2:23;jungle;English;
+SONG;kittens;usedcvnt;2:29;breakcore;English;
+SONG;pls tell me what is ur dream;usedcvnt, Eden FM;2:38;jungle;English;
+SONG;just leave me to bleed;usedcvnt;3:01;breakcore;English;
+SONG;sorry mom, i'm making breakcore xd;usedcvnt;1:55;breakcore;English;
+SONG;illusion of control;usedcvnt, Iwakura;2:27;drum and bass;English;
+SONG;yours forever;usedcvnt, abyssal.angel;2:59;jungle;English;
+SONG;it's 2am, i can't sleep;usedcvnt, Enkei;1:55;breakcore;English;
+SONG;i want to eat ur heart couse i love u;usedcvnt;1:55;breakcore;English;
+SONG;taste of blood;usedcvnt, Sabuze;1:36;breakcore;English;
+
+# SadSvit
+SONG;Силуети;SadSvit, СТРУКТУРА ЩАСТЯ;2:57;synth-pop;Ukrainian;
+SONG;Касета;SadSvit;2:24;indie-pop;Ukrainian;
+SONG;Молодість;SadSvit;2:30;indie-pop;Ukrainian;
+SONG;Небо;SadSvit;3:39;post-punk;Ukrainian;
+SONG;Персонажі;SadSvit;3:09;post-punk;Ukrainian;
