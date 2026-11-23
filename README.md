@@ -41,6 +41,6 @@
 
     mvn clean verify
     chcp 65001
-    java -Dstdout.encoding=UTF-8 -cp target/classes ua.lab.musicdisc.app.Main
+    java "-Dstdout.encoding=UTF-8" -cp target/classes ua.lab.musicdisc.app.Main
 
 Звіт покриття тестами: `target/site/jacoco/index.html`.
